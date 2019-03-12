@@ -42,7 +42,7 @@ cv2.namedWindow("SegNet")
 cv2.namedWindow("Merge")
 
 #cap = cv2.VideoCapture(0) # Change this to your webcam ID, or file name for your video file
-cap = cv2.VideoCapture('VIDEO0037.mp4') # Change this to your webcam ID, or file name for your video file
+cap = cv2.VideoCapture('demo_video.mp4') # Change this to your webcam ID, or file name for your video file
 #cap = cv2.VideoCapture('1.jpg')
 #cap=cv2.imread('1.jpg')
 rval = True
