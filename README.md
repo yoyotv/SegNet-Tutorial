@@ -6,7 +6,7 @@
 
 Download caffemodel and demo video from [here](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
 
-Put caffemodel under Folder "Example_models"
+Put segnet_sun.caffemodel under Folder "Example_models"
 
 Put demo_video under main folder(Segnet)
 
