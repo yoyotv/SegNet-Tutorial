@@ -3,6 +3,14 @@
 
 ##########################################
 
+
+Download caffemodel and demo video from ![resource](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
+
+Put caffemodel under Example_models
+
+Put demo_video under main folder(Segnet)
+
+
 RUN
 Under script/webcam_demo_mine.py
 
