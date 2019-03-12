@@ -4,15 +4,15 @@
 ##########################################
 
 
-Download caffemodel and demo video from ![resource](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
+Download caffemodel and demo video from ![here](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
 
-Put caffemodel under Example_models
+Put caffemodel under Folder "Example_models"
 
 Put demo_video under main folder(Segnet)
 
 
 RUN
-Under script/webcam_demo_mine.py
+Under main folder
 
 ```python Scripts/webcam_demo.py --model Example_Models/segnet_sun.prototxt --weights Example_Models/segnet_sun.caffemodel --colours Scripts/camvid12.png```
 
