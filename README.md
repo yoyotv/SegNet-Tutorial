@@ -1,5 +1,21 @@
 # SegNet and Bayesian SegNet Tutorial
 
+
+
+```python Scripts/webcam_demo.py --model Example_Models/segnet_sun.prototxt --weights /Example_Models/segnet_sun.caffemodel --colours /Scripts/camvid12.png```
+
+
+
+
+
+
+
+
+
+
+
+
+
 This repository contains all the files for you to complete the 'Getting Started with SegNet' and the 'Bayesian SegNet' tutorials here:
 http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 
