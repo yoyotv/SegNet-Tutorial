@@ -4,7 +4,7 @@
 ##########################################
 
 
-Download caffemodel and demo video from ![here](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
+Download caffemodel and demo video from [here](https://drive.google.com/open?id=1ZxdFdMUeoUwS_9_Pa2a7gSJm4Ajtt-af)
 
 Put caffemodel under Folder "Example_models"
 
