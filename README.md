@@ -2,6 +2,8 @@
 
 RUN
 
+under script/webcam_demo_mine
+
 ```python Scripts/webcam_demo.py --model Example_Models/segnet_sun.prototxt --weights Example_Models/segnet_sun.caffemodel --colours Scripts/camvid12.png```
 
 
